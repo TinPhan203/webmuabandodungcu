@@ -15,7 +15,7 @@ WORKDIR /app
 COPY . .
 
 # Install dependencies
-RUN composer install
+RUN composer install && cp .env.example .env
 
 # Generate app key
 RUN php artisan key:generate
