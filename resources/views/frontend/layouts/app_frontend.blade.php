@@ -156,8 +156,8 @@
             <div class="row">
                 <div class="col-lg-8 text-white">
                     <p style="margin-bottom: 5px;
-                    ">Designed by Le Minh Thang</p>
-                    <p>&copy; 2023 Stu2Hand. All rights reserved.</p>
+                    ">Designed by Phan Tín</p>
+                    <p>&copy; 2025 Website. All rights reserved.</p>
                 </div>
                 <div class="col-lg-4">
                     <div class="item-footer">
@@ -167,7 +167,7 @@
                         <ul class="d-flex">
                             <li class="mr-2">
                                 <a href="#">
-                                    <img src="{{ asset('assets/img/stu2hand_logo.png') }}" alt=""
+                                    <img src="{{ asset('assets/img/slide_do_dien_tu.png') }}" alt=""
                                         width="100%" height="45px">
                                 </a>
                             </li>
